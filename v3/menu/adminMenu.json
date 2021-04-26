@@ -328,7 +328,7 @@
       "component": "layout/routerView/parent",
       "meta": {
         "title": "message.router.layoutIfameView",
-        "isLink": "https: //gitee.com/lyt-top/vue-admin-wonderful",
+        "isLink": "https://v3.vuejs.org/guide/introduction.html#what-is-vue-js",
         "isHide": false,
         "isKeepAlive": true,
         "isAffix": true,
