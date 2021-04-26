@@ -14,7 +14,7 @@
         "isAffix": true,
         "isIframe": false,
         "auth": ["admin", "test"],
-        "icon": "iconfont icon-shouye"
+        "icon": "iconfont ant-icon-home"
       }
     },
     {
@@ -30,7 +30,7 @@
         "isAffix": false,
         "isIframe": false,
         "auth": ["admin"],
-        "icon": "iconfont icon-xitongshezhi"
+        "icon": "iconfont ant-icon-setting"
       },
       "children": [
         {
@@ -45,7 +45,7 @@
             "isAffix": false,
             "isIframe": false,
             "auth": ["admin"],
-            "icon": "iconfont icon-caidan"
+            "icon": "iconfont ant-icon-menu"
           }
         },
         {
@@ -60,7 +60,7 @@
             "isAffix": false,
             "isIframe": false,
             "auth": ["admin"],
-            "icon": "iconfont icon-icon-"
+            "icon": "iconfont ant-icon-team"
           }
         }
       ]
@@ -78,7 +78,7 @@
         "isAffix": false,
         "isIframe": false,
         "auth": ["admin", "test"],
-        "icon": "iconfont icon-quanxian"
+        "icon": "iconfont ant-icon-key"
       },
       "children": [
         {
@@ -92,7 +92,8 @@
             "isKeepAlive": true,
             "isAffix": false,
             "isIframe": false,
-            "auth": ["admin", "test"]
+            "auth": ["admin", "test"],
+            "icon": "iconfont ant-icon-caret-right"
           },
           "children": [
             {
@@ -106,7 +107,8 @@
                 "isKeepAlive": true,
                 "isAffix": false,
                 "isIframe": false,
-                "auth": ["admin", "test"]
+                "auth": ["admin", "test"],
+                "icon": "iconfont ant-icon-caret-copy"
               }
             }
           ]
@@ -126,7 +128,7 @@
         "isAffix": false,
         "isIframe": false,
         "auth": ["admin", "test"],
-        "icon": "iconfont icon-caidan"
+        "icon": "iconfont ant-icon-appstore"
       },
       "children": [
         {
@@ -142,7 +144,7 @@
             "isAffix": false,
             "isIframe": false,
             "auth": ["admin", "test"],
-            "icon": "iconfont icon-caidan"
+            "icon": "iconfont ant-icon-appstore"
           },
           "children": [
             {
@@ -157,7 +159,7 @@
                 "isAffix": false,
                 "isIframe": false,
                 "auth": ["admin", "test"],
-                "icon": "iconfont icon-caidan"
+                "icon": "iconfont ant-icon-appstore"
               }
             },
             {
@@ -173,7 +175,7 @@
                 "isAffix": false,
                 "isIframe": false,
                 "auth": ["admin", "test"],
-                "icon": "iconfont icon-caidan"
+                "icon": "iconfont ant-icon-appstore"
               },
               "children": [
                 {
@@ -188,7 +190,7 @@
                     "isAffix": false,
                     "isIframe": false,
                     "auth": ["admin", "test"],
-                    "icon": "iconfont icon-caidan"
+                    "icon": "iconfont ant-icon-appstore"
                   }
                 },
                 {
@@ -203,7 +205,7 @@
                     "isAffix": false,
                     "isIframe": false,
                     "auth": ["admin", "test"],
-                    "icon": "iconfont icon-caidan"
+                    "icon": "iconfont ant-icon-appstore"
                   }
                 }
               ]
@@ -220,7 +222,7 @@
                 "isAffix": false,
                 "isIframe": false,
                 "auth": ["admin", "test"],
-                "icon": "iconfont icon-caidan"
+                "icon": "iconfont ant-icon-appstore"
               }
             }
           ]
@@ -237,7 +239,7 @@
             "isAffix": false,
             "isIframe": false,
             "auth": ["admin", "test"],
-            "icon": "iconfont icon-caidan"
+            "icon": "iconfont ant-icon-appstore"
           }
         }
       ]
@@ -255,7 +257,7 @@
         "isAffix": false,
         "isIframe": false,
         "auth": ["admin", "test"],
-        "icon": "iconfont icon-crew_feature"
+        "icon": "iconfont ant-icon-dropbox"
       },
       "children": [
         {
@@ -287,7 +289,7 @@
         "isAffix": false,
         "isIframe": false,
         "auth": ["admin", "test"],
-        "icon": "iconfont icon-ico_shuju"
+        "icon": "iconfont ant-icon-linechart"
       }
     },
     {
@@ -302,7 +304,7 @@
         "isAffix": false,
         "isIframe": false,
         "auth": ["admin", "test"],
-        "icon": "iconfont icon-gerenzhongxin"
+        "icon": "iconfont ant-icon-user"
       }
     },
     {
@@ -317,7 +319,7 @@
         "isAffix": false,
         "isIframe": false,
         "auth": ["admin", "test"],
-        "icon": "iconfont icon-gongju"
+        "icon": "iconfont ant-icon-appstoreadd"
       }
     },
     {
@@ -332,7 +334,7 @@
         "isAffix": true,
         "isIframe": true,
         "auth": ["admin"],
-        "icon": "iconfont icon-neiqianshujuchucun"
+        "icon": "iconfont ant-icon-group"
       }
     }
   ]
