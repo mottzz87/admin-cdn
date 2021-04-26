@@ -60,7 +60,7 @@
                 "isAffix": false,
                 "isIframe": false,
                 "auth": ["admin", "test"],
-                "icon": "iconfont ant-icon-caret-copy"
+                "icon": "iconfont ant-icon-file-copy"
               }
             }
           ]
